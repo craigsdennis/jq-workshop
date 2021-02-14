@@ -1,8 +1,8 @@
 # Installation Guide
 
-This workshop will make heavy use of `curl` to fetch data from an API and `jq` to parse and transform those results.
+This workshop will use `curl` to fetch data from an API and `jq` to parse and transform those results.
 
-NOTE: We are going to be making heavy use of Unix pipes, so if you are coming from a Windows world, please consider using [WSL (Windows Subsystem for Linux)](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+NOTE: If you're coming from a Windows world, know that we're going to be making heavy use of Unix pipes. Please consider using [WSL (Windows Subsystem for Linux)](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
 ## Install curl
 
@@ -22,7 +22,7 @@ There is a chance that you might already have `jq` installed. Let's check:
 jq --version
 ```
 
-I'll be using version 1.6 in the workshop.
+I'll be using version `1.6` in the workshop.
 
 If you don't have it installed, the quickest way to install is via Homebrew:
 
@@ -32,4 +32,4 @@ brew install jq
 
 For more installation options, see the [official jq download page](https://stedolan.github.io/jq/download/)
 
-Looking forward to hanging out!
+Let me know if you have any questions, and very much looking forward to hanging out with you!
