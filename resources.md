@@ -23,3 +23,9 @@ Use the amazing [patchbay.pub](https://patchbay.pub/) to explore Webhook request
 ```bash
 curl https://patchbay.pub/pubsub/jq-workshop-webhook
 ```
+
+## Learn more
+
+The [tutorial is great](https://stedolan.github.io/jq/tutorial/) and [the manual](https://stedolan.github.io/jq/manual/) is thorough and well documented. Make sure to check out all the awesome things you can do!
+
+Remember to use [jq play](https://jqplay.org) to explore!

@@ -1,16 +1,19 @@
-# JQ Workshop [5 minutes]
+# JQ Workshop 🗣️
 
 - [ ] Introductions
 - [ ] Command line feels
-- [ ] JSON
 
-## Getting familiar [10 minutes]
+## Getting familiar 🔍
 
 - [ ] Pipes
 - [ ] Filters
+- [ ] JSON
+
+## Dive in 🤿
+
 - [ ] Explore some API results
 - [ ] Explore a Webhook request
 
-## Practice [5 minutes]
+## Practice 🎉
 
 - [ ] [jq Playground](https://jqplay.org)
