@@ -1,4 +1,4 @@
-# JQ Workshop 🗣️
+# jq Workshop 🗣️
 
 - [ ] Introductions
 - [ ] Command line feels
